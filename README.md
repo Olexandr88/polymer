@@ -1,6 +1,6 @@
 # Polymer
 
-[![Build Status](https://travis-ci.org/Polymer/polymer.svg?branch=master)](https://travis-ci.org/Polymer/polymer)
+[![Build Status](https://travis-ci.org/Polymer/polymer.svg?branch=master)](https://app.travis-ci.com/github/Polymer/polymer/active-on-org)
 [![Published on npm](https://img.shields.io/npm/v/@polymer/polymer.svg)](https://www.npmjs.com/package/@polymer/polymer)
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/@polymer/polymer)
 
